@@ -1,4 +1,5 @@
-# 438-task-2
+# 438-task-2 individual task on image captioning paper review+ Slide+ Recorded youtube link
+
 Link to unlisted YouTube video:
 https://www.youtube.com/watch?v=ig5YHmYvLtc
 
